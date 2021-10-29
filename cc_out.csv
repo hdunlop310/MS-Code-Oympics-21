@@ -1,0 +1,6 @@
+ccNumber,validity,checkDigit,issuer,testCard
+5610591081018250,y,0,"""BankCard""",y
+5019551439824589,n,2,"""Dankort""",n
+6011954642315834,y,4,"""RuPay""",n
+2221542318942137,n,3,"""Mastercard""",n
+4115447132154466,y,6,"""Visa""",n
